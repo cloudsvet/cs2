@@ -1,0 +1,8 @@
+---
+applications:
+- name: cs2
+  instances: 1
+  mem: 64M
+  stackato:
+    env:
+      OSLOVENI: "Ahojda"
